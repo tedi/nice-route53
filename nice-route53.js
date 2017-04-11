@@ -240,7 +240,7 @@ Route53.prototype.createZone = function(args, pollEvery, callback) {
 
     var realArgs = {
         Name            : args.name,
-        CallerReference : args.name,
+        CallerReference : args.reference,
     };
 
     if ( args.comment ) {

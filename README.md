@@ -1,10 +1,12 @@
+## Nice route updated by Tedi Konda for use at RepEquity. Old nice-route didn't allow creating routes that were previously deleted because the call reference sent is currently the bucket name. 
+
 ```
-       _                                _       ____ _____ 
- _ __ (_) ___ ___       _ __ ___  _   _| |_ ___| ___|___ / 
-| '_ \| |/ __/ _ \_____| '__/ _ \| | | | __/ _ \___ \ |_ \ 
+       _                                _       ____ _____
+ _ __ (_) ___ ___       _ __ ___  _   _| |_ ___| ___|___ /
+| '_ \| |/ __/ _ \_____| '__/ _ \| | | | __/ _ \___ \ |_ \
 | | | | | (_|  __/_____| | | (_) | |_| | ||  __/___) |__) |
-|_| |_|_|\___\___|     |_|  \___/ \__,_|\__\___|____/____/ 
-                                                           
+|_| |_|_|\___\___|     |_|  \___/ \__,_|\__\___|____/____/
+
 ```
 
 This package provides the API you really wanted to Amazon's Route53 service.
